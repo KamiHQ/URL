@@ -467,6 +467,12 @@
     if (base !== undefined && !(base instanceof jURL))
       base = new jURL(String(base));
 
+    if (url == null) {
+      url = ''
+    } else {
+      url = url.toString()
+    }
+
     this._url = url;
     clear.call(this);
 
