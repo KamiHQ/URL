@@ -1,0 +1,19 @@
+{
+  "name": "url-polyfill",
+  "version": "1.0.0",
+  "description": "URL parser in JavaScript",
+  "main": "url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamiHQ/URL.git"
+  },
+  "author": "https://github.com/Polymer/URL/graphs/contributors",
+  "license": "SEE LICENSE IN https://github.com/Polymer/URL#license",
+  "bugs": {
+    "url": "https://github.com/KamiHQ/URL/issues"
+  },
+  "homepage": "https://github.com/KamiHQ/URL#readme"
+}
